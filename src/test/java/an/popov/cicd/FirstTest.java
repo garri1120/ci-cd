@@ -13,7 +13,7 @@ class FirstTest {
 
   @Test
   void test2(){
-    String string = "Hello";
+    String string = "Hello world";
     Assertions.assertEquals("Hello world", string);
   }
 }
